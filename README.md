@@ -24,7 +24,7 @@ REPOSITORY CONTENTS
 
 - NDBC_Retrieval+Binning.py – Download and average buoy water temperature data
 - ECOSTRESS_QC_Filter.py – Apply quality control filters to ECOSTRESS scenes
-- Geolocation Shift – Manually shift scenes using Georeferencer
+- GeoViewer_v1.12.py – Manually shift scenes using Georeferencer
 - Vectorize_Mask.py - Invert and vectorize the ECOSTRESS water product
 - Land_Mask.py – Remove land pixels from scenes
 - Calibration_LOESS_Graphs.py - Develop an average baseline and apply threshold
@@ -37,4 +37,4 @@ REPOSITORY CONTENTS
 
 CONTACTS
 
-If you have any questions, encounter issues, or would like to suggest improvements, please contact jacquelyn.s.meiseles@jpl.nasa.gov, quinmeiseles@gmail.com
+If you have any questions, encounter issues, or would like to suggest improvements, please contact jacquelyn.s.meiseles@jpl.nasa.gov, meiseles@chapman.edu, quinmeiseles@gmail.com
